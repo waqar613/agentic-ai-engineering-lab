@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 **🔬 Agentic AI Engineering Lab**
 
 Welcome to my official **Agentic AI Engineering Lab!** This repository serves as a centralized hub and workspace for all my custom-built AI agents, autonomous workflows, and intelligent applications.
@@ -24,4 +24,4 @@ A professional, dark-themed Streamlit AI dashboard powered by CrewAI and local O
 - 🚀 Code optimization & clean formatting
 - 📥 Download corrected code in original format
 - 🔊 Integrated voice playback feedback
->>>>>>> da0bd8d (Add AI Code Studio Pro Agent securely)
+
