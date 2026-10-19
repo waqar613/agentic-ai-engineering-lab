@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **🔬 Agentic AI Engineering Lab**
 
 Welcome to my official **Agentic AI Engineering Lab!** This repository serves as a centralized hub and workspace for all my custom-built AI agents, autonomous workflows, and intelligent applications.
@@ -12,3 +13,15 @@ This lab houses various modular AI systems built using state-of-the-art framewor
  📂 Project Structure
 Each sub-folder in this repository represents a distinct agentic level or specialized AI tool complete with its own configuration and setup guide.
 **Feel free to explore, star ⭐, or fork 🍴 these projects if you find them useful!**
+=======
+# ⚡ AI Code Studio Pro
+
+A professional, dark-themed Streamlit AI dashboard powered by CrewAI and local Ollama (`qwen2.5-coder:7b`).
+
+## Features
+- 📁 File upload & code analysis (.py, .js, .html, .css, .json, .txt)
+- 🔍 Automatic error detection & bug fixing
+- 🚀 Code optimization & clean formatting
+- 📥 Download corrected code in original format
+- 🔊 Integrated voice playback feedback
+>>>>>>> da0bd8d (Add AI Code Studio Pro Agent securely)

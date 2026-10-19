@@ -1,0 +1,24 @@
+# Sensitive & Environment Variables
+.env
+*.env
+config.json
+secrets.toml
+
+# Heavy Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Temp Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary Audio / Generated Files
+*.mp3
+response.mp3
+
+# IDE / OS Settings
+.vscode/
+.idea/
+.DS_Store
