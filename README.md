@@ -13,7 +13,7 @@ This lab houses various modular AI systems built using state-of-the-art framewor
  📂 Project Structure
 Each sub-folder in this repository represents a distinct agentic level or specialized AI tool complete with its own configuration and setup guide.
 **Feel free to explore, star ⭐, or fork 🍴 these projects if you find them useful!**
-=======
+
 # ⚡ AI Code Studio Pro
 
 A professional, dark-themed Streamlit AI dashboard powered by CrewAI and local Ollama (`qwen2.5-coder:7b`).
